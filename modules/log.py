@@ -20,4 +20,4 @@ def call_decorate(function):
 def function(first, second):
     print("Inside")
     
-function("first", "second", "third")
+function("first", "second")
